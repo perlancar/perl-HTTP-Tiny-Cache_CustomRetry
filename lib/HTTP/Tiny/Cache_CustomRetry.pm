@@ -29,11 +29,14 @@ L<HTTP::Tiny::CustomRetry> (HT:CustomRetry). Since both HT:Cache and
 HT:CustomRetry both extend L<HTTP::Tiny> (HT), this module modifies
 HT:CustomRetry's C<@ISA> to point to HT:Retry instead. This is a hack and
 probably only serves to show the limitation of subclassing mechanism for adding
-functionalities, like we see in the L<WWW::Mechanize> land.
+functionalities, like we see in the L<WWW::Mechanize> land. For an alternative
+solution, see L<HTTP::Huge> which is a plugin-enabled variant of HTTP::Tiny.
 
 
 =head1 SEE ALSO
 
 L<HTTP::Tiny::Cache>, L<HTTP::Tiny::CustomRetry>
+
+L<HTTP::Huge>
 
 L<HTTP::Tiny>
