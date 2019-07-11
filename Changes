@@ -1,17 +1,17 @@
-0.003   2019-04-12 (PERLANCAR)
+0.003   2019-04-12  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- [doc] Change mention of HTTP::Huge with HTTP::Tiny::Plugin.
 
 
-0.002   2019-04-12 (PERLANCAR)
+0.002   2019-04-12  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- [doc] Mention HTTP::Huge.
 
 
-0.001    2019-04-12 (PERLANCAR)
+0.001    2019-04-12  Released-By: PERLANCAR
 
          - First release.
